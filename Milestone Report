@@ -2,10 +2,10 @@ output:
   word_document: default
   html_document: default
 ---
-## Coursera Data Science Capstone: Milestone Report
+  ## Coursera Data Science Capstone: Milestone Report
 By: William Roth
 
-## Introduction
+# Introduction
 This is the Milestone Report for the Coursera Data Science Capstone project. The goal of the capstone project is to create a predictive text model using a large text corpus of documents as training data. Natural language processing techniques will be used to perform the analysis and build the predictive model.
 
 This milestone report describes the major features of the training data with our exploratory data analysis and summarizes our plans for creating the predictive model.
