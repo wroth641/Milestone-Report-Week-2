@@ -1,9 +1,4 @@
-output:
-  word_document: default
-  html_document: default
----
-
-##  Coursera Data Science Capstone: Milestone Report
+# Coursera Data Science Capstone: Milestone Report
 By: William Roth
 
 ##  Introduction
